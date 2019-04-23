@@ -1,6 +1,6 @@
 {
   "name": "cruddl",
-  "version": "0.8.0",
+  "version": "0.9.0-alpha.3",
   "description": "",
   "license": "MIT",
   "main": "dist/index.js",
